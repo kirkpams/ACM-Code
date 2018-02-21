@@ -41,6 +41,37 @@ Intended course audience: Databases
 
 ---
 
+### Unauthorized Security Scans
+
+This case examines a legal case in which a contractor performed unauthorized
+penetration testing scans on an employer's network.
+
+Intended course audience: Information Security
+
+[DOCX](Cases/UnauthorizedScans/UnauthorizedSecurityScans.docx) | [Pages](Cases/UnauthorizedScans/UnauthorizedSecurityScans.pages) | [PDF](Cases/UnauthorizedScans/UnauthorizedSecurityScans.pdf)
+
+---
+
+### Free Speech for Extremist Groups
+
+This case examines the role that a network backbone provider should play in
+allowing or censoring controversial content within its region.
+
+Intended course audience: Networks
+
+[DOCX](Cases/FreeSpeechExtremists/FreeSpeechforWhiteSupremacists.docx) | [Pages](Cases/FreeSpeechExtremists/FreeSpeechforWhiteSupremacists.pages) | [PDF](Cases/FreeSpeechExtremists/FreeSpeechforWhiteSupremacists.pdf)
+
+---
+
+### Case Study Instructor's Guide
+
+This file contains information on how to conduct case studies using this
+template, and general suggestions for facilitating the discussions.
+
+[DOCX](Cases/CaseStudyInquiryGuide.docx) | [Pages](Cases/CaseStudyInquiryGuide.pages) | [PDF](Cases/CaseStudyInquiryGuide.pdf)
+
+---
+
 ### Case Study Template
 
 This file contains the template used as the basis for the case studies.
